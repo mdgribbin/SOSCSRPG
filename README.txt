@@ -1,0 +1,1 @@
+I made this RPG following Scott Lilly's guide to learn C#.
